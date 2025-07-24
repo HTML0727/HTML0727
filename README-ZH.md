@@ -17,11 +17,14 @@
 - **工具**: VS Code • Git • PyCharm
 
 ### 🖥 日常
-
+🎤 **乐队生活**：  
+在校园乐队「氧化钙」担任贝斯手和主唱！  
+每周二和周六进行排练  
+常在本地Live House演出
 
 ### 📬 联系我
 有项目想法，请联系：
 📧 邮箱：[yuhao_li_0727@163.com](mailto:yuhao_li_0727@163.com)  
 🐱 GitHub: [@Nekosparry](https://github.com/Nekosparry)
 
--因为有你在，我现在就很幸福。
+>"意大利面赛高！"
