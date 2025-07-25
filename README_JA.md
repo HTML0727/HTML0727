@@ -25,6 +25,6 @@
 ### 📬 連絡先
 コラボやライブ依頼は：  
 📧 メール：[yuhao_li_0727@163.com](mailto:yuhao_li_0727@163.com)  
-🐱 GitHub: [@Nekosparry](https://github.com/Nekosparry)
+🐱 GitHub: [@Nekosparry](https://github.com/HTML0727)
 
 > 「スパゲッティ最高！」
