@@ -24,7 +24,7 @@
 
 ### 📬 联系我
 有项目想法，请联系：
-📧 邮箱：[yuhao_li_0727@163.com](mailto:yuhao_li_0727@163.com)  
+📧 邮箱：[nekosparry0727@outlook.com](mailto:nekosparry0727@outlook.com)  
 🐱 GitHub: [@Nekosparry](https://github.com/HTML0727)
 
 >"意大利面赛高！"
