@@ -23,7 +23,7 @@ Rehearsals every Tuesday and Saturday
 Regular performances at local Live Houses
 
 ### 📬 Contact with me:  
-📧 Email: [yuhao_li_0727@163.com](mailto:yuhao_li_0727@163.com)  
+📧 Email: [nekosparry0727@outlook.com](mailto:nekosparry0727@outlook.com)  
 🐱 GitHub: [@Nekosparry](https://github.com/HTML0727)
 
 > "Spaghetti is the best!"
