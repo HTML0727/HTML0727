@@ -8,10 +8,10 @@
 ```
 
 ✨ Hey there! I'm **Nekosparry (喵帕斯卡利)** ✨  
-A 14-year-old junior high school band girl, bassist & vocalist!  
+A 14-year-old junior high school band girl, bassist & vocalist desuwa!  
 
 🌐 Languages:  
-[中文](README_CN.md) | [日本語](README_JP.md)  
+[中文](README_ZH.md) | [日本語](README_JP.md)  
 
 ---
 
